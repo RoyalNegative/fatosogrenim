@@ -1,0 +1,22 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.blue-text{
+    color: blue;
+    font-size: 90px;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    align-self: center;
+    
+}
+.red-text{
+    color: rgb(64, 64, 64);
+}
+
+.green-text{
+    color: green;
+}
